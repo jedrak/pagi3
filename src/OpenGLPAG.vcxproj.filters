@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\imgui_impl_glfw.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\imgui_impl_opengl3.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Drawable.cpp" />
+    <ClCompile Include="Cone.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\Camera.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\Mesh.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\Model.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\Shader.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\imgui_impl_glfw.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\imgui_impl_opengl3.h">
+      <Filter>sources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\Build\src\SceneNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Drawable.h" />
+    <ClInclude Include="Cone.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\src\CMakeLists.txt">
+      <Filter>sources</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4AD2BABC-E234-30C3-A77B-9CB6CB172978}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{5037D931-597B-308D-AE85-AF8D9B5D6DC1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

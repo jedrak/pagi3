@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\jedra\Studia\Pagi\pagi3.1\Build\CMakeFiles\8db3bdb4f59c47ab20e855aed8ede32c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F349D946-27DF-37EB-A4C1-1DAD910D3320}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

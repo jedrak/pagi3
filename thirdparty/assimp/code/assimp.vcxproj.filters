@@ -1,0 +1,1749 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\CInterfaceIOWrapper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\StepExporter.cpp">
+      <Filter>Step</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AMFImporter.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AMFImporter_Geometry.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AMFImporter_Material.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AMFImporter_Postprocess.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\3DSExporter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AssbinExporter.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AssbinLoader.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AssxmlExporter.cpp">
+      <Filter>ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ColladaLoader.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ColladaParser.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ColladaExporter.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\IRRMeshLoader.cpp">
+      <Filter>IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\IRRShared.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\IRRLoader.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OFFLoader.cpp">
+      <Filter>OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjFileImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjFileMtlImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjFileParser.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjExporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreImporter.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreStructs.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreBinarySerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreXmlSerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreMaterial.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OpenGEXExporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OpenGEXImporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PlyLoader.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PlyParser.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PlyExporter.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderLoader.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderDNA.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderScene.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderModifier.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderBMesh.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderTessellator.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderCustomData.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCBoolean.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCOpenings.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\STEPFileReader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\STEPFileEncoding.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXImporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXParser.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXConverter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXDocument.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXProperties.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXMeshGeometry.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXMaterial.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXModel.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXAnimation.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXNodeAttribute.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXDeformer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXBinaryTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXDocumentUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXExporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXExportNode.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXExportProperty.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3BSPZipArchive.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\RawLoader.cpp">
+      <Filter>RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SIBImporter.cpp">
+      <Filter>SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\STLExporter.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\TerragenLoader.cpp">
+      <Filter>TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\UnrealLoader.cpp">
+      <Filter>3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XFileImporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XFileParser.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XFileExporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DExporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Geometry2D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Geometry3D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Group.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Light.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Metadata.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Networking.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Postprocess.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Rendering.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Shape.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Texturing.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FIReader.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DVocabulary.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTFImporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTFExporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTF2Importer.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTF2Exporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\D3MFImporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\D3MFExporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\D3MFOpcPackage.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MMDImporter.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MMDPmxParser.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\unzip\ioapi.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\unzip\unzip.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\clipper\clipper.cpp">
+      <Filter>Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\code\Value.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\CInterfaceIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PolyTools.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\STEPFile.h">
+      <Filter>Step</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\StepExporter.h">
+      <Filter>Step</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AMFImporter.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AMFImporter_Macro.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AMFImporter_Node.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\3DSExporter.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AssbinExporter.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AssbinLoader.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\AssxmlExporter.h">
+      <Filter>ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ColladaHelper.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ColladaLoader.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ColladaParser.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ColladaExporter.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\IRRMeshLoader.h">
+      <Filter>IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\IRRShared.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\IRRLoader.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OFFLoader.h">
+      <Filter>OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjFileData.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjFileImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjFileMtlImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjFileParser.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjTools.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\ObjExporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreImporter.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreStructs.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreParsingUtils.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreBinarySerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OgreXmlSerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OpenGEXExporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OpenGEXImporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\OpenGEXStructs.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PlyLoader.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PlyParser.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\PlyExporter.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderLoader.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderDNA.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderDNA.inl">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderScene.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderSceneGen.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderIntermediate.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderModifier.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderBMesh.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderTessellator.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\BlenderCustomData.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCReaderGen_2x3.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\STEPFileReader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Importer\IFC\STEPFileEncoding.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXCompileConfig.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXImporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXParser.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXTokenizer.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXImportSettings.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXConverter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXUtil.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXDocument.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXProperties.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXMeshGeometry.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXExporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXExportNode.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXExportProperty.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FBXCommon.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\Q3BSPZipArchive.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\RawLoader.h">
+      <Filter>RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SIBImporter.h">
+      <Filter>SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\STLExporter.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\TerragenLoader.h">
+      <Filter>TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\UnrealLoader.h">
+      <Filter>3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XFileHelper.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XFileImporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XFileParser.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\XFileExporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DExporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Macro.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\X3DImporter_Node.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\FIReader.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTFAsset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTFAsset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTFAssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTFAssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTFImporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTFExporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTF2Asset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTF2Asset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTF2AssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTF2AssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTF2Importer.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\glTF2Exporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\D3MFImporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\D3MFExporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\D3MFOpcPackage.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\3MFXmlTags.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MMDCpp14.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MMDImporter.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MMDPmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MMDPmxParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\MMDVmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\unzip\crypt.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\unzip\ioapi.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\unzip\unzip.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\clipper\clipper.hpp">
+      <Filter>Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\Build\thirdparty\assimp\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\pbrmaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\metadata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\IOStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\DefaultIOStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\DefaultIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\SceneCombiner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\fast_atof.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\qnan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\BaseImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\MemoryIOWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\ParsingUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\StreamReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\StreamWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\StringComparison.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\StringUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\SGSpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\GenericProperty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\SpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\SmoothingGroups.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\SmoothingGroups.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\StandardShapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\RemoveComments.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Subdivision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\LineSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\TinyFormatter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Profiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\LogAux.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\XMLTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\IOStreamBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\CreateAnimMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\MathFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Exceptional.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\ByteSwapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\jedra\Studia\Pagi\pagi3.1\OpenGLPAG\thirdparty\assimp\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3D">
+      <UniqueIdentifier>{F96406FC-CCDE-358D-8689-531DAFA412E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{705287ED-C862-3720-9956-609E9DA98E8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF">
+      <UniqueIdentifier>{FD780E85-C4A3-3A75-B7D5-E90DC7BB80EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{74FCFEBD-317E-343B-9D8C-929939614DA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AMF">
+      <UniqueIdentifier>{3D3B5A7F-B750-3810-9BC9-AF8DEC1C04C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{4A9C5B6D-7CA8-3EAE-A7D2-2B622FCA447F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN">
+      <UniqueIdentifier>{23728ADC-E198-30E2-A02F-E658798C0674}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSXML">
+      <UniqueIdentifier>{E38DCEDE-234C-3CB2-B378-1F3494F89F9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{71BB8294-92F7-36F9-8B45-19837ECD373C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLEND">
+      <UniqueIdentifier>{1D4F11C7-4BB6-3570-8B74-2A929F41F588}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{F8C24179-DA5F-30D5-BF5F-9276874B3EE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{DA663F55-177C-3CEB-9FA9-DCFB8C62849D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA">
+      <UniqueIdentifier>{9EEA3AEA-1689-3BA0-9FC4-6AF3F9E10E66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{925BB168-7A98-3F21-9E94-33181822385F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipper">
+      <UniqueIdentifier>{05FD4C18-A486-3617-816D-BFD787B7F83F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{F27F02B9-B705-3833-B763-B5339BD25C36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{572D0DD9-3E49-3680-BB09-24CAB7EFB0CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{968E1B4A-C848-32C6-9E7C-90EC2DFFBF2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{48D979EA-9CA4-3DC7-95AB-8B24915B0743}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX">
+      <UniqueIdentifier>{0EE4E869-A307-313A-9CDF-A610C685C1BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{3E6028B3-2EA0-328B-81E9-F0E9F092C59E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{222B82F3-4FEA-3A70-B4F1-FDA24C571137}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4AD2BABC-E234-30C3-A77B-9CB6CB172978}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{66073AD6-7064-32BD-B64E-5D19D303CFF0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRR">
+      <UniqueIdentifier>{1201FF39-BE09-31E2-8D76-6AD8D49EB2FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRRMESH">
+      <UniqueIdentifier>{C52E7221-AEE0-3E1F-BA10-B971E47FA37F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{7C422265-1E84-3D9E-BE19-38F28C60D674}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{CAD48503-9AD5-33BB-B90C-082D271B18EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{FA07CB83-B742-3EE6-94BA-377313FCFEDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{C8A3C31B-1C96-3A2E-8CAF-3835A22C484F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{9BFB4148-4058-3F6B-A35C-370B6A47CCDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{92BBFFC6-03D8-3F97-9BC8-4E946015EB89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{CC77443B-399D-3B84-BC24-6BBDD896C663}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{0C564AFA-F429-39F5-BEA4-3E1F2A09DB5D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{CFAF8AB7-3EB0-3977-B56B-704B211537CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MMD">
+      <UniqueIdentifier>{040530D3-512F-3511-90D2-9C2E021B0BAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{B5767813-4156-31AD-B30A-1EFB0CBFB658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{442F83B4-4B14-38E6-A3FA-025CB2F96CF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{79CE5E52-A827-3912-81BE-4D07A6F4343C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{2E50CD1C-96EE-3AB7-BC41-401CA81910C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ">
+      <UniqueIdentifier>{0F9A4248-3262-3B55-8123-858E72C97870}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFF">
+      <UniqueIdentifier>{302B91D8-1E3E-3390-A2B8-484F8C4FB3C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGRE">
+      <UniqueIdentifier>{E0021629-81AB-3080-9A83-537AF99394A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX">
+      <UniqueIdentifier>{7CC4040B-6075-39D5-BE1E-8E47D6D43D2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY">
+      <UniqueIdentifier>{90FFF4DC-957C-3A59-8DD7-BDE2A271079C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Poly2Tri">
+      <UniqueIdentifier>{B24F81C1-6662-332A-B16C-D43054AF0B37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{468CFFE4-AC20-343E-AA82-810135CC2713}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{4A3DE784-6D9C-3E74-AF17-1FC327F2ABEA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{787356E2-69F4-3870-9100-E5CF2F109ECF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAW">
+      <UniqueIdentifier>{29DF65CC-4ADC-3298-9775-5824BEE9D37D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SIB">
+      <UniqueIdentifier>{41CEB921-0662-368F-AEB4-FDDC776DEB4C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{AFDA78D7-9965-3D94-BC9D-D72E1173D3D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{9644F742-64CF-3128-AB95-32045BA098F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ED3017C9-5826-3B99-B07E-D2F8E8BFA2C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Step">
+      <UniqueIdentifier>{FED92620-08D6-3DAA-B1E8-733DA91B1077}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TERRAGEN">
+      <UniqueIdentifier>{BFCCF3C1-0DC8-3F0A-AC13-456DE4CE50FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X">
+      <UniqueIdentifier>{443A6C3A-69C8-3192-8216-2654F5EF6724}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D">
+      <UniqueIdentifier>{EE8D0380-22EC-3B6E-A9C3-F081D84D86E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{F8D2B215-0B42-3F54-BBF4-F3FBB09F694B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="open3dgc">
+      <UniqueIdentifier>{A24B44E3-A8CB-3489-9582-683A4888B8D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="openddl_parser">
+      <UniqueIdentifier>{6F4A4A7C-24F8-3EB4-AA2E-748856853FDD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="unzip">
+      <UniqueIdentifier>{FC4ED2A3-AD7B-3DB2-8E78-CCA82FD546D5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{822C49DD-78B6-354A-8F32-E5C9C77E1D6B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

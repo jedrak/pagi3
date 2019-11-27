@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPkgConfig.cmake
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/CMakeLists.txt
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/assimp-config-version.cmake.in
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/assimp-config.cmake.in
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/assimp.pc.in
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/cmake-modules/FindDirectX.cmake
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/cmake-modules/FindPkgMacros.cmake
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/cmake-modules/FindZLIB.cmake
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/cmake-modules/PrecompiledHeader.cmake
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/cmake-modules/cmake_uninstall.cmake.in
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/include/assimp/config.h.in
+D:/Users/jedra/Studia/Pagi/pagi3.1/OpenGLPAG/thirdparty/assimp/revision.h.in
